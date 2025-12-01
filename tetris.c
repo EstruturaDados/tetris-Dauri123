@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-// Desafio Tetris Stack
+// Desafio Tetris Stack dauri da paz
 // Tema 3 - Integração de Fila e Pilha
 // Este código inicial serve como base para o desenvolvimento do sistema de controle de peças.
 // Use as instruções de cada nível para desenvolver o desafio.
